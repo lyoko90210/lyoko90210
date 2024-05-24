@@ -1,6 +1,4 @@
 
----
-
 # Welcome to My GitHub Profile!
 
 Hello! I'm delighted to have you here. Let me share a bit about myself and what drives my passion for technology and personal development.
