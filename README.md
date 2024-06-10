@@ -10,9 +10,7 @@ I believe that "you are what you think." The quality of your thoughts shapes you
 I'm passionate about coding, web development, and becoming a better programmer. My goal is to eventually work on or contribute to larger projects. I have a strong interest in design and aspire to contribute to a project that changes the world for the better.
 
 ### Key Principles I Live By:
-- **Mindful Thinking:** Awareness of your thoughts is the first step towards improving them. When you consciously evaluate your thinking, you can correct unrealistic expectations and pessimism.
-- **Positive Transformation:** Many people are hindered by their own thoughts. By fostering better thinking habits, you can overcome self-imposed limitations and recognize opportunities.
-- **Continuous Learning:** I am committed to lifelong learning, both personally and professionally. This drive is reflected in my projects and collaborations.
+
 
 ## My Projects
 
